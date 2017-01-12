@@ -1,2 +1,3 @@
-print(Hello Word)
-print(Hi everybody!!!)
+print("Hello Word!")
+print("Hi everybody!!!")
+print("All are very good!!!")
